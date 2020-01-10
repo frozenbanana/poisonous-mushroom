@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WCxNpTcjWgbmm648A0Bkbo9NNF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578667341055</updated>
-      <workItem from="1578667344430" duration="152000" />
+      <workItem from="1578667344430" duration="264000" />
     </task>
     <servers />
   </component>
@@ -47,6 +51,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="428" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578668159120">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="428" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.733@0.23.1280.733" timestamp="1578668159120" />
     <state x="305" y="80" width="670" height="676" key="search.everywhere.popup" timestamp="1578667627637">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
